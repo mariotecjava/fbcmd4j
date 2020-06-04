@@ -68,7 +68,7 @@ public class Utils {
 		try {
 			URL url = new URL("https://graph.facebook.com/v2.6/device/login");
 	        Map<String,Object> params = new LinkedHashMap<>();
-	        params.put("access_token", "EAANSE5BhWNYBAN3wjJ4leFtD9D7ZCIPx9lFZAMncGSMZAznZCDcMI9vx0kg8ZAO9gxwu0ObIZA9bZBe2wnOV7o9iEwxnmPwC3xZAZBpnep02Max6IPjQmPEFKj4waQZBYu6raNr7o9ZCGuhchG9cqbcZC5fpqVjPNbhZCJTOX1pZAuEyZCvL76dpLZBfJ7AeZAqLQAf5MYyDB7cdVAbXR4r1HO5ZA9ZA8ndLk6yPdSbOO13yPZCWUe3OkVvBWPTttvyMZBhgD08NzxTsZD");
+	        params.put("access_token", "EAAD9fWqKgkwBAFDVlc1jS6jhXakujr5h2FXUWOQNwFUZAvb7Mt2KjzNzvZAzXiKJ4g7CubWo5jLv4jrfZB35Wcs0IKipJPicnakPKcQWVAASNZCW154d2HrtC6B03FLoZBZAChbfgYilcPoc1jrNdJpiYeW5AqsVHomL4PibIlBzVDmZAeyELEoukWl8cjAWtSWDRJ8V3sxqy1Q4c7iufT2gogbJdnKmrFkdSHVsvfcxUPqw5I53MZACoERT6yNiYV8ZD");
 	        params.put("scope", props.getProperty("oauth.permissions"));
 
 	        StringBuilder postData = new StringBuilder();

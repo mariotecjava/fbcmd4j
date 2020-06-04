@@ -14,3 +14,12 @@
 2020-06-03 21:53:21.274 [main] INFO  org.fbcmd4j.Main - Iniciando app
 2020-06-03 21:55:15.343 [main] INFO  org.fbcmd4j.Main - Iniciando app
 2020-06-03 21:57:15.765 [main] INFO  org.fbcmd4j.Main - Iniciando app
+2020-06-03 22:40:08.411 [main] INFO  org.fbcmd4j.Main - Iniciando app
+2020-06-03 22:40:46.029 [main] ERROR org.fbcmd4j.Main - Error validating access token: Session has expired on Wednesday, 03-Jun-20 20:00:00 PDT. The current time is Wednesday, 03-Jun-20 20:40:46 PDT.
+2020-06-03 22:41:10.573 [main] ERROR org.fbcmd4j.Main - Error validating access token: Session has expired on Wednesday, 03-Jun-20 20:00:00 PDT. The current time is Wednesday, 03-Jun-20 20:41:10 PDT.
+2020-06-03 22:42:56.131 [main] ERROR org.fbcmd4j.Main - Error validating access token: Session has expired on Wednesday, 03-Jun-20 20:00:00 PDT. The current time is Wednesday, 03-Jun-20 20:42:55 PDT.
+2020-06-04 11:31:35.745 [main] INFO  org.fbcmd4j.Main - Iniciando app
+2020-06-04 11:32:31.803 [main] ERROR org.fbcmd4j.Main - Error validating access token: Session has expired on Wednesday, 03-Jun-20 20:00:00 PDT. The current time is Thursday, 04-Jun-20 09:32:18 PDT.
+2020-06-04 11:38:16.635 [main] INFO  org.fbcmd4j.Main - Iniciando app
+2020-06-04 12:53:14.175 [main] INFO  org.fbcmd4j.Main - Iniciando app
+2020-06-04 13:02:58.218 [main] INFO  org.fbcmd4j.Main - Iniciando app
