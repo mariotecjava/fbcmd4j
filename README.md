@@ -1,19 +1,7 @@
 
 Cliente de Facebook en línea de comando para la evidencia del curso de Computacion en Java
 
-**Importar a Eclipse**  
-1. Dar clic en `File -> Import -> Existing Projects into Workspace`.
-2. Seleccionar la carpeta raíz donde se clonó el proyecto.
 
-**Exportar .jar**  
-1. Dar clic derecho al proyecto en Eclipse.
-2. Seleccionar `Export -> Runnable JAR file`.
-
-**Ejecutar .jar**  
-1. Abrir la carpeta `bin`.
-2. Abrir la terminal (*utilizar privilegios de administrador en Windows*).
-3. Navegar a la carpeta `fbcmd4j/bin` donde se encuentra el archivo `fbcmd4j.jar`.
-4. Ejecutar el comando `java -jar fbcmd4j.jar`.
 
 
 ## Uso
